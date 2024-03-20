@@ -1,1 +1,12 @@
+**Insulator-Defect Detection** is a dataset for an object detection task using SSD 512 algorithm  . 
+It is used in the energy industry which is more efficient. 
+
+The dataset consists of 16000 images with 5373 labeled objects belonging to 3 different classes including *insulator*, *pollution-flashover* and *broken* .
+
+Images in the Insulator-Defect Detection dataset have bounding box annotations. All images are labeled (i.e. with annotations). There are 3 splits in the dataset: *train* (1600 images), *test* (160 images), and *val* (144 images).
+
+Here is the visualized example grid with annotations:
+
+<img src="https://i.ibb.co/MMtzS3r/SSD-512-OUTPUT.png" alt="SSD-512-OUTPUT" >
+
 
