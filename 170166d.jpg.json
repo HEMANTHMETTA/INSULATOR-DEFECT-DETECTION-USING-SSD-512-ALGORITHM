@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2136,
+        "width": 3216
+    },
+    "objects": [
+        {
+            "id": 6517221,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:47:54.861Z",
+            "updatedAt": "2023-06-14T17:47:54.861Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        1788,
+                        0
+                    ],
+                    [
+                        2376,
+                        2132
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6517220,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:47:54.861Z",
+            "updatedAt": "2023-06-14T17:47:54.861Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        2118,
+                        1076
+                    ],
+                    [
+                        2253,
+                        1278
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6517219,
+            "classId": 8802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:47:54.860Z",
+            "updatedAt": "2023-06-14T17:47:54.860Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        1836,
+                        1948
+                    ],
+                    [
+                        1934,
+                        2069
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

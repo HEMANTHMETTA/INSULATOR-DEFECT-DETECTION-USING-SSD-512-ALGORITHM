@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 6000
+    },
+    "objects": [
+        {
+            "id": 6519848,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:07.681Z",
+            "updatedAt": "2023-06-14T17:49:07.681Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        2614,
+                        514
+                    ],
+                    [
+                        3310,
+                        3580
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519847,
+            "classId": 8802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:07.681Z",
+            "updatedAt": "2023-06-14T17:49:07.681Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        2865,
+                        2272
+                    ],
+                    [
+                        2978,
+                        2414
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519846,
+            "classId": 8802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:07.680Z",
+            "updatedAt": "2023-06-14T17:49:07.680Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        2608,
+                        3213
+                    ],
+                    [
+                        2849,
+                        3458
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

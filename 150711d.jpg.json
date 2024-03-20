@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 4000,
+        "width": 6000
+    },
+    "objects": [
+        {
+            "id": 6520401,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:20.406Z",
+            "updatedAt": "2023-06-14T17:49:20.406Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        323,
+                        1
+                    ],
+                    [
+                        4031,
+                        3115
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6520400,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:20.406Z",
+            "updatedAt": "2023-06-14T17:49:20.406Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        2914,
+                        1767
+                    ],
+                    [
+                        3100,
+                        2002
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

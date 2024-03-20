@@ -1,0 +1,226 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2136,
+        "width": 3216
+    },
+    "objects": [
+        {
+            "id": 6519185,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.813Z",
+            "updatedAt": "2023-06-14T17:48:47.813Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        181,
+                        706
+                    ],
+                    [
+                        2027,
+                        1825
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519184,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.812Z",
+            "updatedAt": "2023-06-14T17:48:47.812Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        1999,
+                        1048
+                    ],
+                    [
+                        2609,
+                        2135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519183,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.811Z",
+            "updatedAt": "2023-06-14T17:48:47.811Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        1638,
+                        780
+                    ],
+                    [
+                        1818,
+                        1090
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519182,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.811Z",
+            "updatedAt": "2023-06-14T17:48:47.811Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        1208,
+                        1041
+                    ],
+                    [
+                        1318,
+                        1286
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519181,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.810Z",
+            "updatedAt": "2023-06-14T17:48:47.810Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        995,
+                        1106
+                    ],
+                    [
+                        1179,
+                        1211
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519180,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.810Z",
+            "updatedAt": "2023-06-14T17:48:47.810Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        850,
+                        1155
+                    ],
+                    [
+                        1093,
+                        1427
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519179,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.810Z",
+            "updatedAt": "2023-06-14T17:48:47.810Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        668,
+                        1204
+                    ],
+                    [
+                        934,
+                        1464
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519178,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.809Z",
+            "updatedAt": "2023-06-14T17:48:47.809Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        457,
+                        1318
+                    ],
+                    [
+                        732,
+                        1483
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519177,
+            "classId": 8802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.809Z",
+            "updatedAt": "2023-06-14T17:48:47.809Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        267,
+                        1482
+                    ],
+                    [
+                        406,
+                        1626
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

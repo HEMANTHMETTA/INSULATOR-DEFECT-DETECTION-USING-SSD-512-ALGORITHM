@@ -1,0 +1,58 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1944,
+        "width": 2896
+    },
+    "objects": [
+        {
+            "id": 6517258,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:47:54.864Z",
+            "updatedAt": "2023-06-14T17:47:54.864Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        2255,
+                        1185
+                    ],
+                    [
+                        2891,
+                        1943
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6517257,
+            "classId": 8802,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:47:54.863Z",
+            "updatedAt": "2023-06-14T17:47:54.863Z",
+            "tags": [],
+            "classTitle": "pollution-flashover",
+            "points": {
+                "exterior": [
+                    [
+                        2480,
+                        1176
+                    ],
+                    [
+                        2840,
+                        1296
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

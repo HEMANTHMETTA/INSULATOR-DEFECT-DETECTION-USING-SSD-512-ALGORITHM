@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 2136,
+        "width": 3216
+    },
+    "objects": [
+        {
+            "id": 6517871,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:13.323Z",
+            "updatedAt": "2023-06-14T17:48:13.323Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        1425,
+                        219
+                    ],
+                    [
+                        1899,
+                        2135
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6517870,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:13.320Z",
+            "updatedAt": "2023-06-14T17:48:13.320Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        1587,
+                        1122
+                    ],
+                    [
+                        1815,
+                        1280
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6517869,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:13.320Z",
+            "updatedAt": "2023-06-14T17:48:13.320Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        1625,
+                        1328
+                    ],
+                    [
+                        1861,
+                        1459
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

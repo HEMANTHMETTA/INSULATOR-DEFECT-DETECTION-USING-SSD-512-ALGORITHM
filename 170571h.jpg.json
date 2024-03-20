@@ -1,0 +1,130 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3216,
+        "width": 2136
+    },
+    "objects": [
+        {
+            "id": 6519163,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.810Z",
+            "updatedAt": "2023-06-14T17:48:47.810Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        639,
+                        1
+                    ],
+                    [
+                        1147,
+                        1767
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519162,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.810Z",
+            "updatedAt": "2023-06-14T17:48:47.810Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        947,
+                        542
+                    ],
+                    [
+                        1101,
+                        735
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519161,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.810Z",
+            "updatedAt": "2023-06-14T17:48:47.810Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        687,
+                        735
+                    ],
+                    [
+                        1108,
+                        938
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519160,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.809Z",
+            "updatedAt": "2023-06-14T17:48:47.809Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        833,
+                        1424
+                    ],
+                    [
+                        1151,
+                        1624
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6519159,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:48:47.809Z",
+            "updatedAt": "2023-06-14T17:48:47.809Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        697,
+                        1717
+                    ],
+                    [
+                        1119,
+                        1795
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

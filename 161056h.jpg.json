@@ -1,0 +1,106 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 3008,
+        "width": 4512
+    },
+    "objects": [
+        {
+            "id": 6520350,
+            "classId": 8804,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:20.397Z",
+            "updatedAt": "2023-06-14T17:49:20.397Z",
+            "tags": [],
+            "classTitle": "insulator",
+            "points": {
+                "exterior": [
+                    [
+                        1700,
+                        49
+                    ],
+                    [
+                        2434,
+                        2999
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6520349,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:20.396Z",
+            "updatedAt": "2023-06-14T17:49:20.396Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        2110,
+                        1025
+                    ],
+                    [
+                        2346,
+                        1255
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6520348,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:20.396Z",
+            "updatedAt": "2023-06-14T17:49:20.396Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        1767,
+                        1622
+                    ],
+                    [
+                        2010,
+                        1852
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6520347,
+            "classId": 8803,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-06-14T17:49:20.396Z",
+            "updatedAt": "2023-06-14T17:49:20.396Z",
+            "tags": [],
+            "classTitle": "broken",
+            "points": {
+                "exterior": [
+                    [
+                        1770,
+                        2065
+                    ],
+                    [
+                        2337,
+                        2225
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
